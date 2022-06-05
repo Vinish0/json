@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Vinish",
+    "age": 21,
+    "sex": "Male",
+    "status": "Single",
+    "nationality": "Indian",
+    "language": "Tamil",
+    "hobbies": ["Listening Music", "Photo Editing", "coding", "movies"],
+    "height": "173cm",
+    "weight": "65kg",
+    "mobile": ["6369621259", "7871259445"],
+    "email": "vinishvinish42@gmail.com",
+    "father": "Vijayan",
+    "mother": "AjithaKumari",
+    "address": [
+      {
+        "houseNo": "5/8B",
+        "post": "padanthalumoodu",
+        "district": "Kanyakumari",
+        "city": "Marthandam",
+        "pin": "629163"
+      }
+    ],
+    "education": [
+      {
+        "sslc": {
+          "institution": "St.Joseph's Higher Secondary School",
+          "schoolPlace": "Thirithuvapuram",
+          "university": "State Board",
+          "year": "2015 - 2016",
+          "percentage": "95"
+        },
+        "hsc": {
+          "institution": "St.Joseph's Higher Secondary School",
+          "schoolPlace": "Thirithuvapuram",
+          "university": "State Board",
+          "year": "2017 - 2018",
+          "percentage": "76"
+        },
+        "dme": {
+          "institution": "Morning Star Polytechnic College",
+          "schoolPlace": "Nagercoil",
+          "university": "DOTE",
+          "year": "2018 - 2020",
+          "percentage": "80"
+        }
+      }
+    ]
+  }
+]
